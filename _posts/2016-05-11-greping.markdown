@@ -6,4 +6,4 @@ blog: true
 ---
 
 
-How's it going? It's the case that I'm putting this blog on work.I hope I can publish something about data processing in ecology or open source/science soon. See you soon!
+How's it going? It's the case that I'm putting this blog on work. I hope I can publish something about data processing in ecology or open source/science soon. See you!
