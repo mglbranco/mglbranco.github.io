@@ -1,2 +1,78 @@
-name: M. Branco
+# Main text header
+name: Miguel Branco
+bio: 'grep-ing the microbial plankton secrets, a free-open source fan says'
+
+# Avatar
+external-image: false
+picture: 'assets/images/profile.png'
+
+# URL
+url: http://mglbranco.github.io
+
+permalink: /:title/
+
 markdown: kramdown
+highlighter: rouge
+
+# analytics-google: 'UA-MYANALYTICS'
+# analytics-piwik-url: 'piwik.my-host.com'
+# analytics-piwik-id: 1
+
+  # Comments in your posts
+disqus: false
+
+# Social networks profile
+# facebook: myfacebook
+email: mbranco@protonmail.com
+twitter: mglbranco
+# google: mygoogle
+# instagram: myinstagram
+# pinterest: mypinterest
+linkedin: mglbranco
+# youtube: myyoutube
+# spotify: myspotify
+github: mglbranco
+# medium: medium
+
+
+# Larger site:
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: normal
+
+# Pagination, comment the *paginate* configs below if not needed
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+# Projects, comment the *projects* configs below if not needed
+projects: false
+
+# "about" or "blog" sections
+about: true
+blog: true
+
+# Show the "read time" of the posts
+read-time: true
+
+# Show the "tags" inside the posts
+show-tags: true
+
+# Related posts inside a post
+related: true
+
+# Show animations
+animation: true
+
+gems:
+  - jemoji
+  - jekyll-mentions
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-paginate
+
+jekyll-mentions:
+    base_url: https://github.com
+
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh]

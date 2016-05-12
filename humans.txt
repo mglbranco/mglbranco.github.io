@@ -1,0 +1,9 @@
+# humanstxt.org/
+
+# TEAM
+
+	Miguel - d'Insua
+
+# TECHNOLOGY
+
+R, Bash, Linux, Unix, l10n, l18n, Open Science, Open Data, Open Source
