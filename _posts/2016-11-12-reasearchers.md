@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Reproducibilidade en ciencia con R
+date: 2016-11-11 20:20
+blog: true
 ---
 
 O pasado 20 de novembro, hai pouco, os _R-galegos_ tivemos unha nova quedada, e xa é a terceira!. Antes de seguir, doulle as grazas por se animar repetir e os meus parabéns pola organización a [Melisa](http://webmelisa.es/) e ás/aos axudantes!.
